@@ -1,1 +1,1 @@
-# Khai-ph-d-li-u-v-ng-d-ng
+# Khai phá dữ liệu và ứng dụng
